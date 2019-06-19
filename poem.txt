@@ -3,4 +3,5 @@ de regenboog
 rood
 geel
 groen
+paars
 blauw
