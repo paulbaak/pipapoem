@@ -8,8 +8,13 @@ roos
 oranje
 groen
 banaan
+wielen
 peer 
 paars
+wielen
+fiets
+blauw unicorn
+motor
 anjer
 blauw unicorn
 hyacint
