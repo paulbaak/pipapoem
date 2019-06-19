@@ -1,7 +1,7 @@
 de regenboog
 
-rood
 geel
+rood
 oranje
 groen
 paars
