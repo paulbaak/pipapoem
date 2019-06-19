@@ -6,6 +6,9 @@ appel
 oranje
 groen
 banaan
+wielen
 peer 
 paars
+fiets
 blauw unicorn
+motor
