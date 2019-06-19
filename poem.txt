@@ -2,6 +2,7 @@ de regenboog
 
 rood
 geel
+oranje
 groen
 paars
 blauw
