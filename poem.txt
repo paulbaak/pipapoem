@@ -2,7 +2,10 @@ de regenboog en de eenhorn
 
 geel
 rood
+appel
 oranje
 groen
+banaan
+peer 
 paars
 blauw unicorn
